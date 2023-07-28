@@ -2,4 +2,10 @@ Dev commit 1
 Dev commit 2
 Main commit 1
 Main commit 2
+<<<<<<< HEAD
 Main commit 3
+=======
+Feature commit
+>>>>>>> feature
+camake ..
+add something new
